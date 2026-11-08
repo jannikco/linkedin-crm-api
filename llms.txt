@@ -1,0 +1,11 @@
+# LeadAdapter CRM records
+
+> LinkedIn workflows powered by the LeadAdapter API key.
+
+- [Quick start](README.md)
+- [Capabilities](capabilities.json)
+- [Agent instructions](AGENTS.md)
+- [Research and CRM cookbook](docs/research-to-crm.md)
+- [linkedin-reviewed-crm](.agents/skills/linkedin-reviewed-crm/SKILL.md)
+
+Package/fixture testing does not establish live provider execution.
